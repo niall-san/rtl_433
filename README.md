@@ -1,7 +1,7 @@
-rtl_433
-=======
+rtl_433 HackRF
+==============
 
-rtl_433 turns your Realtek RTL2832 based DVB dongle into a 433.92MHz generic data receiver
+Fork of rtl_433 - adding HackRF One support
 
 How to add support for unsupported sensors
 ------------------------------------------
